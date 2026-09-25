@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDVBDPJawrpbG7YnqskZPesbxRgZyLxi9s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1053228432511</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.bflixadmin</string>
+	<key>PROJECT_ID</key>
+	<string>b-flix-79268</string>
+	<key>STORAGE_BUCKET</key>
+	<string>b-flix-79268.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1053228432511:ios:49daa3fd0b16e978c5534a</string>
+	<key>DATABASE_URL</key>
+	<string>https://b-flix-79268-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

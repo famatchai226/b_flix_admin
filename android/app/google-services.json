@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1053228432511",
+    "firebase_url": "https://b-flix-79268-default-rtdb.firebaseio.com",
+    "project_id": "b-flix-79268",
+    "storage_bucket": "b-flix-79268.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053228432511:android:4675c507cddc23f4c5534a",
+        "android_client_info": {
+          "package_name": "com.mycompany.bflix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjCzAbFQB8uvMxnHLXeKa_AX30vvcAImE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053228432511:android:1f1362b98175953bc5534a",
+        "android_client_info": {
+          "package_name": "com.mycompany.bflixadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjCzAbFQB8uvMxnHLXeKa_AX30vvcAImE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
